@@ -42,13 +42,8 @@ Dev | Dev | Dev | Dev | Dev
 <div>
   <img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/05dad4fc-3f8a-4d82-978d-729576f9948f">
   <img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/7da1425a-4986-4b43-ba79-24086755568a">
-  <img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/1a3a62a0-6b54-431e-a2db-25fa5a807aec">
-  <img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/ea7de4ea-1e88-4c20-a824-84bfe9e6874d">
-  <img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/b73d8546-15a4-44ea-b32c-043da8e1df14">
   <img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/2ac8d27a-4dc2-4610-8cbc-98245af82b91">
-  <img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/2eb5cbb0-5eaf-4027-ae11-77d560561716">
   <img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/5662d088-c435-467e-8851-d6b598d53cea">
-  <img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/f318e0be-caeb-4a50-8e62-feafd0713921">
 
 
 </div>
@@ -73,59 +68,46 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 
 ## Sprint 1. Desenvolvimento do Projeto
-- [x] Documentação Sprint 1;
-- [x] Relatório;
-- [x] Gráfico Burndown;
-- [x] Divisão de Atividades no Jira;
-- [x] Monitoramento e ajustes dos dados;
-- [x] Criação de um projeto no Jira para as sprints;
-- [x] Criação de um repositório no GitHub para o projeto;
-- [x] Criação de uma biblioteca de dados;
-- [x] Criação de Power BI com análise preliminar de três meses;
+- [ ] Documentação Sprint 1;
+- [ ] Relatório;
+- [ ] Gráfico Burndown;
+- [ ] Divisão de Atividades no Jira;
+- [ ] Monitoramento e ajustes dos dados;
+- [ ] Criação de um projeto no Jira para as sprints;
+- [ ] Criação de um repositório no GitHub para o projeto;
+- [ ] Criação de uma biblioteca de dados;
+- [ ] Criação de Power BI com análise preliminar de três meses;
 
-<img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/1dfceb9b-2cd0-4707-836e-2693217f169d">
+<img src="">
  
 ## Sprint 2. Implementação
-- [x] Documentação Sprint 2;
-- [x] Relatório;
-- [x] Gráfico Burndown;
-- [x] Monitoramento e ajustes dos dados;
-- [x] Divisão de Atividades no Jira;
-- [x] Atualização de Jira Software;
-- [x] Estudo de Python;
-- [x] Estudo de Power BI;
-- [x] Modelagem dos dados em MySQL;
-- [x] Otimização em python utilizando métodos de transporte com 5 clientes;
-- [x] Atualização do GitHub;
+- [ ] Documentação Sprint 2;
+- [ ] Relatório;
+- [ ] Gráfico Burndown;
+- [ ] Monitoramento e ajustes dos dados;
+- [ ] Divisão de Atividades no Jira;
+- [ ] Atualização de Jira Software;
+- [ ] Estudo de Python;
+- [ ] Estudo de Power BI;
+- [ ] Modelagem dos dados em MySQL;
+- [ ] Otimização em python utilizando métodos de transporte com 5 clientes;
+- [ ] Atualização do GitHub;
 
-<img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/6fac8184-1217-409a-9edc-21ae3c84c802">
+<img src="">
 
 ## Sprint 3. Operacionalização
-- [x] Documentação Sprint 3;
-- [x] Relatório;
-- [x] Gráfico Burndown;
-- [x] Divisão de Atividades no Jira;
-- [x] Monitoramento e ajustes dos dados;
-- [x] Criação de uma tabela com informações de demanda, frete e capacidade para 2024;
-- [x] Estudo das otimizações das rotas em python;
-- [x] Otimização em Python comparativa entre 2023 e 2024;
-- [x] Desenvolvimento de algoritmos ou ferramentas para calculo de rotas mais econômicas;
-- [x] Conexão entre o visualizador ao banco de dados;
+- [ ] Documentação Sprint 3;
+- [ ] Relatório;
+- [ ] Gráfico Burndown;
+- [ ] Divisão de Atividades no Jira;
+- [ ] Monitoramento e ajustes dos dados;
+- [ ] Criação de uma tabela com informações de demanda, frete e capacidade para 2024;
+- [ ] Estudo das otimizações das rotas em python;
+- [ ] Otimização em Python comparativa entre 2023 e 2024;
+- [ ] Desenvolvimento de algoritmos ou ferramentas para calculo de rotas mais econômicas;
+- [ ] Conexão entre o visualizador ao banco de dados;
 
-<img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/206a4ab2-eca1-4d5e-834a-5fbcc7ec6a12">
-
-## Sprint 4. Finalização
-- [x] Documentação Sprint 4;
-- [x] Relatório;
-- [x] Gráfico Burndown;
-- [x] Divisão de Atividades no Jira;
-- [x] Monitoramento e ajustes dos dados;
-- [x] Teste de integração entre o banco de dados, o visualizador de indicadores e o método de transportes;
-- [x] Correção de Bugs e ajustes de performance;
-- [x] Criação da documentação técnica com treinamento para os usuários finais;
-- [x] Integração dos Resultados da Otimização;
-
-<img src="https://github.com/ExpandSolution/Terceiro_Semestre/assets/135040407/1c06cf88-e70d-40f3-8420-e1e2295fca19">
+<img src="">
 
 # Competências desenvolvidas
 
