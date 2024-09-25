@@ -15,7 +15,7 @@ O Projeto visa desenvolver uma solução de um problema proposto pelo parceiro a
 Sprint | Previsão | Status| Relatório|
 |------|--------|------|--------|
 |Kick Off | 06/09/2024 | Concluído ✔️|  | 
-|Backlog + Git + Jira| 27/09/2024 | a fazer|  |
+|Backlog + Git + Jira| 27/09/2024 | Concluído ✔️|  |
 |01| 18/10/2024 | a fazer|  | 
 |02| 08/11/2024 | a fazer|  |
 |03| 29/11/2024 | a fazer|  | 
