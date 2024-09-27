@@ -82,11 +82,11 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [ ] Monitoramento e ajustes dos dados;
 - [ ] Divisão de Atividades no Jira;
 - [ ] Atualização de Jira Software;
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] Captura de dados no site da ANTAQ;
+- [ ] Tratamentos dos dados capturados na ANTAQ;
 - [ ] Atualização do GitHub;
+- [ ] Colocar nos computadores as ferramentas necessárias para trabakhar nas Sprints;
+
 
 
 
@@ -95,11 +95,9 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [ ] Relatório;
 - [ ] Divisão de Atividades no Jira;
 - [ ] Monitoramento e ajustes dos dados;
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] Tratar os dados coletados, para uma pré visualização e análises;
+- [ ] Utilizar o DEA, para obter insights iniciais de desempenho;
+- [ ] Colocar no Power BI, análises iniciais;
 
 
 ## Sprint 3. Finalização
@@ -107,8 +105,9 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [ ] Relatório;
 - [ ] Divisão de Atividades no Jira;
 - [ ] Monitoramento e ajustes dos dados;
-- [ ] 
-- [ ] 
+- [ ] Implementar DEA, com solver no Power BI;
+- [ ] Aprimorar os dashboards para uma melhor visualização dos usuários;
+
 
 # Competências desenvolvidas
 
