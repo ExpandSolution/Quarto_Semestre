@@ -74,7 +74,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [x] Criação de um repositório no GitHub para o projeto;
 - [x] Backlog da Sprint;
 
-<img src="">
+
  
 ## Sprint 1. Implementação
 - [ ] Documentação Sprint 1;
@@ -88,7 +88,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [ ] 
 - [ ] Atualização do GitHub;
 
-<img src="">
+
 
 ## Sprint 2. Operacionalização
 - [ ] Documentação Sprint 2;
@@ -101,7 +101,14 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [ ] 
 - [ ] 
 
-<img src="">
+
+## Sprint 3. Finalização
+- [ ] Documentação Sprint 3;
+- [ ] Relatório;
+- [ ] Divisão de Atividades no Jira;
+- [ ] Monitoramento e ajustes dos dados;
+- [ ] 
+- [ ] 
 
 # Competências desenvolvidas
 
