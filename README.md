@@ -67,45 +67,39 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 </div>
 
 
-## Sprint 1. Desenvolvimento do Projeto
-- [ ] Documentação Sprint 1;
-- [ ] Relatório;
-- [ ] Gráfico Burndown;
-- [ ] Divisão de Atividades no Jira;
-- [ ] Monitoramento e ajustes dos dados;
-- [ ] Criação de um projeto no Jira para as sprints;
-- [ ] Criação de um repositório no GitHub para o projeto;
-- [ ] Criação de uma biblioteca de dados;
-- [ ] Criação de Power BI com análise preliminar de três meses;
+## Sprint 0. Desenvolvimento do Projeto
+- [x] Documentação Sprint 1;
+- [x] Divisão de Atividades no Jira;
+- [x] Criação de um projeto no Jira para as sprints;
+- [x] Criação de um repositório no GitHub para o projeto;
+- [x] Backlog da Sprint;
 
 <img src="">
  
-## Sprint 2. Implementação
-- [ ] Documentação Sprint 2;
+## Sprint 1. Implementação
+- [ ] Documentação Sprint 1;
 - [ ] Relatório;
-- [ ] Gráfico Burndown;
 - [ ] Monitoramento e ajustes dos dados;
 - [ ] Divisão de Atividades no Jira;
 - [ ] Atualização de Jira Software;
-- [ ] Estudo de Python;
-- [ ] Estudo de Power BI;
-- [ ] Modelagem dos dados em MySQL;
-- [ ] Otimização em python utilizando métodos de transporte com 5 clientes;
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
 - [ ] Atualização do GitHub;
 
 <img src="">
 
-## Sprint 3. Operacionalização
-- [ ] Documentação Sprint 3;
+## Sprint 2. Operacionalização
+- [ ] Documentação Sprint 2;
 - [ ] Relatório;
-- [ ] Gráfico Burndown;
 - [ ] Divisão de Atividades no Jira;
 - [ ] Monitoramento e ajustes dos dados;
-- [ ] Criação de uma tabela com informações de demanda, frete e capacidade para 2024;
-- [ ] Estudo das otimizações das rotas em python;
-- [ ] Otimização em Python comparativa entre 2023 e 2024;
-- [ ] Desenvolvimento de algoritmos ou ferramentas para calculo de rotas mais econômicas;
-- [ ] Conexão entre o visualizador ao banco de dados;
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
 
 <img src="">
 
