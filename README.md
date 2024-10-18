@@ -16,7 +16,7 @@ Sprint | Previsão | Status| Relatório|
 |------|--------|------|--------|
 |Kick Off | 06/09/2024 | Concluído ✔️|  | 
 |Backlog + Git + Jira| 27/09/2024 | Concluído ✔️|  |
-|01| 18/10/2024 | a fazer|  | 
+|01| 18/10/2024 | Concluído ✔️| [Relatório Sprint 1](https://github.com/ExpandSolution/Terceiro_Semestre/blob/main/Documentos/Relat%C3%B3rio%20Sprint%201.pdf) | 
 |02| 08/11/2024 | a fazer|  |
 |03| 29/11/2024 | a fazer|  | 
 |Feira de Soluções|12/12/2024 | a fazer | | 
@@ -77,34 +77,20 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
  
 ## Sprint 1. Implementação
-- [ ] Documentação Sprint 1;
-- [ ] Relatório;
-- [ ] Monitoramento e ajustes dos dados;
-- [ ] Divisão de Atividades no Jira;
-- [ ] Atualização de Jira Software;
 - [ ] Captura de dados no site da ANTAQ;
 - [ ] Tratamentos dos dados capturados na ANTAQ;
-- [ ] Atualização do GitHub;
-- [ ] Colocar nos computadores as ferramentas necessárias para trabakhar nas Sprints;
+
 
 
 
 
 ## Sprint 2. Operacionalização
-- [ ] Documentação Sprint 2;
-- [ ] Relatório;
-- [ ] Divisão de Atividades no Jira;
-- [ ] Monitoramento e ajustes dos dados;
 - [ ] Tratar os dados coletados, para uma pré visualização e análises;
 - [ ] Utilizar o DEA, para obter insights iniciais de desempenho;
 - [ ] Colocar no Power BI, análises iniciais;
 
 
 ## Sprint 3. Finalização
-- [ ] Documentação Sprint 3;
-- [ ] Relatório;
-- [ ] Divisão de Atividades no Jira;
-- [ ] Monitoramento e ajustes dos dados;
 - [ ] Implementar DEA, com solver no Power BI;
 - [ ] Aprimorar os dashboards para uma melhor visualização dos usuários;
 
