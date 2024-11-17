@@ -15,8 +15,8 @@ O Projeto visa desenvolver uma solução de um problema proposto pelo parceiro a
 Sprint | Previsão | Status| Relatório|
 |------|--------|------|--------|
 |Kick Off | 06/09/2024 | Concluído ✔️|  | 
-|Backlog + Git + Jira| 27/09/2024 | Concluído ✔️|  |
-|01| 18/10/2024 | Concluído ✔️| [Relatório Sprint 1](https://github.com/ExpandSolution/Terceiro_Semestre/blob/main/Documentos/Relat%C3%B3rio%20Sprint%201.pdf) | 
+|Backlog + Git + Jira| 27/09/2024 | Concluído ✔️| [Relatório Sprint 0](https://github.com/ExpandSolution/Quarto_Semestre/blob/main/Sprint%200/Relat%C3%B3rio%20API%20Sprint%200.pdf) |
+|01| 18/10/2024 | Concluído ✔️| [Relatório Sprint 1]() | 
 |02| 08/11/2024 | a fazer|  |
 |03| 29/11/2024 | a fazer|  | 
 |Feira de Soluções|12/12/2024 | a fazer | | 
