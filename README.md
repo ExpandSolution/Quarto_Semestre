@@ -57,7 +57,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 # MVP
 
-<img src="https://github.com/user-attachments/assets/134ef830-84cc-42b5-bb53-3aa57621f7d2">
+<img src="https://github.com/user-attachments/assets/7f76d606-7f6a-4cec-911b-6510d89fd7ac">
 
 # Backlog do Produto
   
