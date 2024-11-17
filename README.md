@@ -16,7 +16,7 @@ Sprint | Previsão | Status| Relatório|
 |------|--------|------|--------|
 |Kick Off | 06/09/2024 | Concluído ✔️|  | 
 |Backlog + Git + Jira| 27/09/2024 | Concluído ✔️| [Relatório Sprint 0](https://github.com/ExpandSolution/Quarto_Semestre/blob/main/Sprint%200/Relat%C3%B3rio%20API%20Sprint%200.pdf) |
-|01| 18/10/2024 | a fazer|  | 
+|01| 18/10/2024 | Concluído ✔️|  | 
 |02| 08/11/2024 | a fazer|  |
 |03| 29/11/2024 | a fazer|  | 
 |Feira de Soluções|12/12/2024 | a fazer | | 
@@ -77,8 +77,8 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
  
 ## Sprint 1. Implementação
-- [ ] Captura de dados no site da ANTAQ;
-- [ ] Tratamentos dos dados capturados na ANTAQ;
+- [x] Captura de dados no site da ANTAQ;
+- [x] Tratamentos dos dados capturados na ANTAQ;
 
 
 
