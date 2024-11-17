@@ -16,7 +16,7 @@ Sprint | Previsão | Status| Relatório|
 |------|--------|------|--------|
 |Kick Off | 06/09/2024 | Concluído ✔️|  | 
 |Backlog + Git + Jira| 27/09/2024 | Concluído ✔️| [Relatório Sprint 0](https://github.com/ExpandSolution/Quarto_Semestre/blob/main/Sprint%200/Relat%C3%B3rio%20API%20Sprint%200.pdf) |
-|01| 18/10/2024 | Concluído ✔️| [Relatório Sprint 1]() | 
+|01| 18/10/2024 | a fazer|  | 
 |02| 08/11/2024 | a fazer|  |
 |03| 29/11/2024 | a fazer|  | 
 |Feira de Soluções|12/12/2024 | a fazer | | 
@@ -57,7 +57,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 # MVP
 
-<img src="">
+<img src="https://github.com/user-attachments/assets/134ef830-84cc-42b5-bb53-3aa57621f7d2">
 
 # Backlog do Produto
   
