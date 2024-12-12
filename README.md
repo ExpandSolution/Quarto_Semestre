@@ -91,8 +91,8 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 
 ## Sprint 3. Finalização
-- [ ] Implementar DEA, com solver no Power BI;
-- [ ] Aprimorar os dashboards para uma melhor visualização dos usuários;
+- [x] Implementar DEA, com solver no Power BI;
+- [x] Aprimorar os dashboards para uma melhor visualização dos usuários;
 
 
 # Competências desenvolvidas
